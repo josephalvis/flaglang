@@ -46,7 +46,7 @@ FLAGS = {
     b'\U0001f1e8\U0001f1f0' : None, # cook islands
     b'\U0001f1e8\U0001f1f1' : 'es',
     b'\U0001f1e8\U0001f1f2' : 'fr',
-    b'\U0001f1e8\U0001f1f3' : 'zh-tw',
+    b'\U0001f1e8\U0001f1f3' : 'zh-cn',
     b'\U0001f1e8\U0001f1f4' : 'es',
     b'\U0001f1e8\U0001f1f5' : None, # clipperton island
     b'\U0001f1e8\U0001f1f7' : 'es',
@@ -97,7 +97,7 @@ FLAGS = {
     b'\U0001f1ec\U0001f1fa' : None, # guam
     b'\U0001f1ec\U0001f1fc' : 'pt',
     b'\U0001f1ec\U0001f1fe' : 'en',
-    b'\U0001f1ed\U0001f1f0' : None, # hong kong
+    b'\U0001f1ed\U0001f1f0' : 'zh-tw', # hong kong
     b'\U0001f1ed\U0001f1f2' : None, # heard mcdonald islands
     b'\U0001f1ed\U0001f1f3' : 'es',
     b'\U0001f1ed\U0001f1f7' : 'hr',
